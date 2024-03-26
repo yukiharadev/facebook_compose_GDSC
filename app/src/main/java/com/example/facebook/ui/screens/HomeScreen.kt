@@ -12,6 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import com.example.facebook.ui.components.BottomBarComponent
+import com.example.facebook.ui.components.NewsComponent
 import com.example.facebook.ui.components.PostContainer
 import com.example.facebook.ui.components.StoriesComponent
 import com.example.facebook.ui.components.TopAppBarComponent
@@ -37,6 +38,10 @@ fun HomeScreen() {
         ) {
             PostContainer()
             StoriesComponent()
+            NewsComponent()
+            NewsComponent()
+            NewsComponent()
+            NewsComponent()
         }
     }
 }
