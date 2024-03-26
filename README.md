@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/yukiharasensei/facebook_compose_GDSC/main/screenshot/screens.PNG" width="100"/> <img src="https://raw.githubusercontent.com/yukiharasensei/facebook_compose_GDSC/main/screenshot/code.png" width="100"/> 
+<img src="https://raw.githubusercontent.com/yukiharasensei/facebook_compose_GDSC/main/screenshot/screens.PNG" width="200"/> <img src="https://raw.githubusercontent.com/yukiharasensei/facebook_compose_GDSC/main/screenshot/code.png" width="200"/> 
 
   
 </div>
