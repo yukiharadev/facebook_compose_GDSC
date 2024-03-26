@@ -30,7 +30,7 @@ fun PostContainer() {
     ) {
         Row(
             modifier = Modifier
-               .padding(horizontal = 8.dp, vertical = 8.dp),
+               .padding(horizontal = 5.dp, vertical = 8.dp),
         ){
             AvatarComponent(borderNumber = 0, sizeIcon = 45)
             Text(
