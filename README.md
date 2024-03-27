@@ -4,7 +4,7 @@
 
 <div align = "center">
 
-<div align = "left"> UI Facebook </div> <div align = "right"> UI Facebook </div>
+<div align = "left"> UI Facebook </div> <div align = "right"> UI Clone </div>
 
 <br>
 <br>
